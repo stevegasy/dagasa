@@ -15,8 +15,11 @@
 .row-section .media .media-body p{padding: 0 15px; font-size:14px;}
 .row-section .media .media-body h4 {color: #6b456a; font-size: 18px; font-weight: 600; margin-bottom: 0; padding-left: 14px; margin-top:12px;}
 .btn-default{background:#6B456A; color:#fff; border-radius:30px; border:none; font-size:16px;}
-.fa-spin {
-    margin: 0 auto;}
+.fa-spin {margin: 0 auto;}
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
 body {
     background-color: lightgray;
 }
